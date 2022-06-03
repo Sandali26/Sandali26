@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandali26" alt="sandali26" /></a> </p>
 
-- 🔭 I’m currently working on **Connect4**
+- 🔭 I’m currently working on **Connect4 (AI based project)**
 
-- 🌱 I’m currently learning **Machine learning,**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandali26](https://github.com/Sandali26)
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandali26&show_icons=true&locale=en" alt="sandali26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandali26&" alt="sandali26" /></p>
+
